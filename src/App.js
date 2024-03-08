@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Velatum Bellum Companion App
+          Velatum Bellum Companion App - Ready to Deploy!
         </p>
         <a
           className="App-link"
